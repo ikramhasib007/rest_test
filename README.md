@@ -1,1 +1,1 @@
-# rest_test
+# RESTful testing
